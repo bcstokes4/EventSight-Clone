@@ -57,14 +57,23 @@ DESKTOP VIEW: 1024px
 MOBILE VIEW: 700px
 
   - [ ] The general layout and styling of the site matches the screenshot for
-  __700px__ screen width (5 points)
-    - 3 event cards arranged vertically
-    - Content inside each card matches target
-    - Header content is evenly spaced and spread across 3 rows
-    - Button are stacked vertically
-    - Footer content is aligned correctly
-    - Appropriate top, bottom, left and right margins in the viewport
-    - Similar whitespace between cards and around them
-    - Elements are not touching or overlapping
-    - Appropriate whitespace around all text elements and icons
-_Note: If a point was deducted from the desktop view criteria and the same minor issue is present in the mobile view, an additional point will not be deducted. This applies for minor issues such as color, box-shadows, etc. This does NOT apply to major issues related to alignment / justification / positioning and whitespacing._
+  __700px__ screen width
+    - Event Cards (2 points)
+      - 3 event cards arranged vertically
+      - Content inside each card matches target
+    - Header and Footer (1 point)
+      - Header content is evenly spaced and spread across 3 rows
+      - Buttons are stacked vertically
+      - Footer content is aligned correctly
+    - Viewport and Margins (1 point)
+      - Appropriate top, bottom, left and right margins in the viewport
+    - Whitespace (1 point)
+      - Similar whitespace between cards and around them
+      - Elements are not touching or overlapping
+      - Appropriate whitespace around all text elements and icons
+
+_Note: If a point was deducted from the desktop view criteria and the same minor
+issue is present in the mobile view, an additional point will not be deducted.
+This applies for minor issues such as color, box-shadows, etc. This does NOT
+apply to major issues related to alignment / justification / positioning and
+whitespacing._
