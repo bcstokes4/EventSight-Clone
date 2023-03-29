@@ -124,5 +124,3 @@ When you are ready to submit:
 [eventsight-title-favicon]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Modular-Curriculum/content/week-07/EventSight/eventsight-favicon.png
 [eventsight-hover-effects-top]: https://media.giphy.com/media/agzknLFhyLBUFnrUHJ/giphy.gif
 [eventsight-hover-effects-bottom]: https://media.giphy.com/media/zGPPvRNL9RWqVV3ZNX/giphy.gif
-[eventsight-hover-effects-top-movie-file]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Modular-Curriculum/content/week-07/EventSight/eventsight-interactions-top.mp4
-[eventsight-hover-effects-bottom-movie-file]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Modular-Curriculum/content/week-07/EventSight/eventsight-interactions-bottom.mp4
